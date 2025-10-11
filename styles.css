@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(35, 153, 182);
+}
+img,p{
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+a:hover{
+    color: pink;
+}
+p{
+    box-shadow: 0 12px 12px rgba(0, 0, 0, 0.8);
+}
